@@ -4,3 +4,4 @@ Exercises and solutions for Machine Learning for Hackers by Drew Conway &amp; Jo
 # To get started: setting up the env.
 1. Install R in your system
 2. Run the `package_installer.R` script to install required packages
+3. You are ready to `Hack the World` !
